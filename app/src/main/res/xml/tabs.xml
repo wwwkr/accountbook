@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        drawable="@drawable/account_img"
+        text="@string/accountBook" />
+
+    <tab
+        drawable="@drawable/chart_img"
+        text="@string/chart" />
+
+    <tab
+        drawable="@drawable/money_img"
+        text="@string/assets" />
+
+<!--    <tab-->
+<!--        drawable="@drawable/setting_img"-->
+<!--        text="@string/setting" />-->
+
+<!--    <tab-->
+<!--        drawable="@drawable/ic_account_circle_black_24dp"-->
+<!--        text="@string/profile" />-->
+</tabs>

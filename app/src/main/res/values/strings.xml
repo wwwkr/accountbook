@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">가계부</string>
+
+
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="bag">Bag</string>
+    <string name="favorite">Orders</string>
+    <string name="profile">Profile</string>
+
+    <string name="accountBook">가계부</string>
+    <string name="chart">통계</string>
+    <string name="assets">자산</string>
+    <string name="setting">설정</string>
+
+
+</resources>
